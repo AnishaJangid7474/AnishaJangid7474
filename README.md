@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anisha Jangid</h1>
 <h3 align="center">Self-motivated computer science engineer with keen interest in coding.</h3>
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=100&color=CBF5F7&width=435&lines=Welcome+to+here+...;+Hope+you+will+Enjoy!" alt="Typing SVG" /><h1/>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=100&color=CBF5F7&width=435&lines=Welcome+here+...;+Hope+you+will+Enjoy!" alt="Typing SVG" /><h1/>
 <br>
 <img align="right" alt="Problem Solving" width ="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
